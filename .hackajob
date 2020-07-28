@@ -1,3 +1,0 @@
-RUN=npm install && npm run dev
-PORT=3000
-MODE=jsx
